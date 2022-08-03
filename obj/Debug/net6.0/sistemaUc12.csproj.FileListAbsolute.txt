@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\sistemaUc12\bin\Debug\net6.0\sistemaUc12.exe
+C:\Users\Lucas\Desktop\sistemaUc12\bin\Debug\net6.0\sistemaUc12.deps.json
+C:\Users\Lucas\Desktop\sistemaUc12\bin\Debug\net6.0\sistemaUc12.runtimeconfig.json
+C:\Users\Lucas\Desktop\sistemaUc12\bin\Debug\net6.0\sistemaUc12.dll
+C:\Users\Lucas\Desktop\sistemaUc12\bin\Debug\net6.0\sistemaUc12.pdb
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.dll
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\refint\sistemaUc12.dll
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.pdb
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\sistemaUc12.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\sistemaUc12\obj\Debug\net6.0\ref\sistemaUc12.dll
