@@ -5,15 +5,13 @@ using System.Threading.Tasks;
 
 namespace sistemaUc12
 {
-    public class Pessoa
+    public abstract class Pessoa
     {
         //Atributos
         public string? nome { get; set; }
-        public string? Endereco { get; set; }
-        public bool enderecoComercial { get; set; }
-
+        public Endereco endereco { get; set; }
         //Metodos
-        public void PagarImposto(){}
+        public abstract void PagarImposto(float rendimento);
 
         
         
