@@ -6,6 +6,7 @@ class program{
 
 static void Main(string[] args)
      {
+      /*
         Endereco end = new Endereco();
         end.logradouro = "Rua X";
         end.numero = 100;
@@ -32,6 +33,29 @@ static void Main(string[] args)
       }else{
         Console.WriteLine("Cadastro Reprovado");
       }
+
+
+      */
+
+      PessoaJuridica pj = new PessoaJuridica();
+
+      Endereco end = new Endereco();
+        end.logradouro = "Rua X";
+        end.numero = 100;
+        end.complemento = "Qualquer coisa";
+        end.enderecoComercial = true;
+
+        pj.endereco = end;
+        pj.cnpj = "98765432110001";
+        pj.RazaoSocial = "Pessoa Juridica";
+
+        if (pj.ValidarCNPJ(pj.cnpj)){
+          Console.WriteLine("cnpj valido");
+        }else{
+          Console.WriteLine("cnpj invalido");
+        }
+        
+
 
      }
     }
