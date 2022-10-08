@@ -9,6 +9,8 @@ namespace sistemaUc12
     {
         public string cpf {get; set;}
         public DateTime dataNascimento {get; set;}
+
+        public float salario { get; set; }
         public override float PagarImposto(float salario){
              if (salario <= 1500)
           {
